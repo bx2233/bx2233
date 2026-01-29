@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I’m Beibei Xian 👋
+B.S. Mathematics @ Arts dual major @ RPI
+M.A. Statistics (Risk & Financial Modeling) @ Columbia 
+Interested in data science + quantitative analysis.
 
-<!--
-**bx2233/bx2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Past projects
+- Biodegradability prediction (XGBoost + feature selection)
+- ICU mortality prediction (MIMIC; evaluation + baselines)
+- Face recognition (PCA / compression / nearest neighbor)
 
-Here are some ideas to get you started:
+## What I'm working on
+### Columbia MA Mentored Research
+- AI4Finance Foundation: https://github.com/AI4Finance-Foundation
+### Current Group
+- **FinGPT — Financial Sentiment Analysis with LLMs**
+-  Building a financial data platform (news, social media, buy-side/institutional opinions)
+- Labeling + pipelines; fine-tuning; evaluation in near-real market settings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming: Python, R, MATLAB
+- Modeling: Regression/Classification, Tree models (RF/XGBoost), PCA
+- Evaluation: ROC-AUC, Confusion matrix, Precision/Recall
+- Optimization: Integer programming (AMPL), sensitivity analysis  ￼
+- Data: SQL, data cleaning, feature engineering, visualization,
+- Languages: English, Chinese  ￼
+
+## Certifications 
+- Bloomberg Finance Fundamentals
+- Bloomberg Market Concepts
+- Bloomberg Spreadsheet Analysis
+- Environmental Social Governance 

@@ -1,10 +1,11 @@
 # Hi, I’m Beibei Xian 👋
-B.S. Mathematics @ Arts dual major @ RPI
+B.S. Mathematics and Arts dual major @ RPI
 M.A. Statistics (Risk & Financial Modeling) @ Columbia 
 Interested in data science + quantitative analysis.
 
 ## My Past projects
 - Biodegradability prediction (XGBoost + feature selection)
+- Zika-induced microcephaly analysis (PCA / clustering / enrichment)
 - ICU mortality prediction (MIMIC; evaluation + baselines)
 - Face recognition (PCA / compression / nearest neighbor)
 

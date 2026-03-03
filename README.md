@@ -4,6 +4,7 @@ M.A. Statistics (Risk & Financial Modeling) @ Columbia
 Interested in data science + quantitative analysis.
 
 ## My Past projects
+- STOP Sign Bounding Box Detection via HSV + K-means (Python/OpenCV)
 - Biodegradability prediction (XGBoost + feature selection)
 - Zika-induced microcephaly analysis (PCA / clustering / enrichment)
 - ICU mortality prediction (MIMIC; evaluation + baselines)
@@ -18,14 +19,17 @@ Interested in data science + quantitative analysis.
 - Labeling + pipelines; fine-tuning; evaluation in near-real market settings
 
 ## Skills
-- Programming: Python, R, MATLAB
-- Modeling: Regression/Classification, Tree models (RF/XGBoost), PCA
-- Evaluation: ROC-AUC, Confusion matrix, Precision/Recall
-- Optimization: Integer programming (AMPL), sensitivity analysis  ￼
-- Data: SQL, data cleaning, feature engineering, visualization,
-- Languages: English, Chinese  ￼
+- Technical: SQL, Python (pandas, numpy, scikit-learn, PyTorch, OpenCV), MATLAB, R, Website Design
+- ML/Stats: Regression/Classification, Tree models (RF/XGBoost), PCA, K-means, ROC-AUC, Confusion Matrix, Precision/Recall,     Feature Selection
+- Optimization&Quantitative Methods: Integer Programming (AMPL), Sensitivity Analysis,
+- LLM&Experimentation: LoRA Fine-Tuning, DeepSpeed, HuggingFace, Weights & Biases, GPU Training (NVIDIA A100)
+- Data&Tools:Feature Engineering, Data Cleaning, EDA, Visualization, Git, Excel, Bloomberg Terminal, LaTeX, Adobe Suite
+- Language: English, Chinese 
+ ￼
 
 ## Certifications 
+- Microsoft SQL Server Specialization 
+- IBM Generative AI for Data Scientists Specialization 
 - Bloomberg Finance Fundamentals
 - Bloomberg Market Concepts
 - Bloomberg Spreadsheet Analysis

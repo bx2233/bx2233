@@ -18,7 +18,7 @@ Current phase: integrating with **WorldMonitor** (44k ⭐) for real-time, event-
 
 ---
 
-### 📌 Selected Projects
+### 📌 Past Selected Projects
 
 | Project | Domain | Stack |
 |---|---|---|

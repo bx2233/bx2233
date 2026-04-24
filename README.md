@@ -1,4 +1,4 @@
-# Hi, I'm Beibei Xian 👋
+# Hi, I'm Beibei Xian
 
 **M.A. Statistics** (Risk & Financial Modeling) @ Columbia · **B.S. Math + Visual/Performance Art** (Cum Laude) @ RPI  
 Researcher @ [AI4Finance Foundation](https://github.com/AI4Finance-Foundation) · Exhibited artist → [artbybeibei.com](https://www.artbybeibei.com)

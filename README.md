@@ -22,6 +22,7 @@ Current phase: integrating with **WorldMonitor** (44k ⭐) for real-time, event-
 
 | Project | Domain | Stack |
 |---|---|---|
+| **YOLOv7 Object Detection on Sports Footage** | Computer Vision | YOLOv7, PyTorch, SORT tracker, OpenCV |
 | **Stop-Sign Detection Pipeline** | Computer Vision | K-means, HSV, CLAHE, OpenCV |
 | **Biodegradability Prediction** | Classical ML | XGBoost, feature selection (AUC = 0.889) |
 | **Zika Microcephaly Analysis** | Bioinformatics | PCA, k-means, Fisher's exact test |

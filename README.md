@@ -41,7 +41,7 @@ Current phase: integrating with **WorldMonitor** (44k ⭐) for real-time, event-
 ---
 
 ### 🎓 Certifications
-DataCamp Data Engineer · Microsoft SQL Server · IBM Generative AI for Data Scientists · Bloomberg Market Concepts · Bloomberg Finance Fundamentals · Bloomberg Spreadsheet Analysis · ESG
+DataCamp Data Engineer · Microsoft SQL Server · IBM Generative AI for Data Scientists · Bloomberg Market Concepts · Bloomberg Finance Fundamentals · Bloomberg Spreadsheet Analysis · Bloomberg ESG
 
 ---
 

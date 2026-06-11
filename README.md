@@ -14,7 +14,6 @@ I work at the intersection of **applied ML and aesthetic judgment** — LLM fine
 
 **FinGPT Systematic Research** — *AI4Finance Foundation* · ongoing  
 Fine-tuning 8B open-source LLMs (LoRA + DeepSpeed, A100) to generate structured financial signals for Dow 30. Designing end-to-end pipeline: data labeling → training → structured output → evaluation via Information Coefficient & Expected Calibration Error.  
-Current phase: integrating with **WorldMonitor** (44k ⭐) for real-time, event-driven sentiment monitoring across asset classes.
 
 ---
 
